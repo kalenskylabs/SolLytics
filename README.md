@@ -147,5 +147,5 @@ For support and questions:
 
 ---
 
-Built with ❤️ by the Sollitics team.
+Built with ❤️ by the SolLytics team.
 
